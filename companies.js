@@ -20,7 +20,7 @@ window.DEFAULT_COMPANY = "meena";
 
 window.COMPANIES = {
   meena: {
-    name: "شركة MEENA العقارية و التشطيبات",
+    name: "شركة العقارية و التشطيبات",
     accounts: true,                  // شغّل الحسابات للشركة دي (شيله أو خليه false للكتالوج فقط)
     // logo: "logos/meena.png",     // اختياري: لوجو مربع PNG مقاس 512×512
     firebase: {                      // من Firebase ← Project settings ← Your apps ← Web
